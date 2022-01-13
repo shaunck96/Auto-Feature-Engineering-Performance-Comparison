@@ -1,7 +1,8 @@
-# Auto-Feature-Engineering-Performance-Comparison
-Evaluating the performance of various automated feature engineering tools 
+# Automatic Feature Engineering and Selection Tools Comparison
+Evaluating the performance of leading automated feature engineering and selection tools in the market.
 
 With requirements of companies ever increasing and with a shortage of skillsets needed, people are on the lookout for automated tools to handle end-end ML modelling to avoid a lot of the focus on the technical development of these complex statistical algorithms. The heirarchical steps being followed to efficiently reach the stage of a fully developed model has some level of repeatibility given it is a typical classification problem/regression problem. 
-The goal of this project is to evaluate one specific step in the process, called Feature Engineering which is very crucial to ensuring the development of a successful machine learning model. There are several Feature Engineering tools and here, we evaluate specific ones with a main focus on how a custom made Feature Engineering tool, PyImpetus outperforms the rest of the tools available out there. 
+
+The goal of this project is to evaluate two specific steps in the process, called Feature Engineering and feature Selection which are very crucial to ensuring the development of a successful machine learning model. There are several Feature Engineering and Selection tools in the open source eco-system and our goal here is to evaluate a select few that have the most popularity (in terms of Github stars or downloads) with a main focus on how all of them compare with respect to classic Regression and Classification tasks.
 
 (...still in progress, description to be updated along the way)
